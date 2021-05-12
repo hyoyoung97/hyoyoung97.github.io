@@ -4,7 +4,7 @@
   - #의 개수에 따라
 
 - 화면에 이미지 출력하기
-  - ![]( + 이미지주소 + )
+  - !+[]+( + 이미지주소 + )
   - <img
      src = " + 이미지주소 + " + >
 - 이미지 크기조절
@@ -19,4 +19,10 @@
 - 상대경로와 절대경로란
   - 무
 - 상대경로, 절대경로로 이동하기
+
+- 
+월요일 | 화요일 | 수요일 | 목요일 
+---- | ---- | ---- | ---- 
+Content from cell 1 | Content from cell 2 | |
+Content in the first column | Content in the second column | |
 
