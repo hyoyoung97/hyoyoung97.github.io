@@ -25,9 +25,4 @@
 ---- | ---- | ---- | ---- 
 Content from cell 1 | Content from cell 2 | |
 Content in the first column | Content in the second column | |
--
-월요일 | 화요일 | 수요일 | 목요일 | 금요일 
----- | ---- | ---- | ---- | ----
-Content from cell 1 | Content from cell 2 | |
-Content in the first column | Content in the second column | |
 
