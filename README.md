@@ -20,9 +20,8 @@
   - 무
 - 상대경로, 절대경로로 이동하기???
 
-- HTML Tutorial 이용해서 표만들기
-- 월요일 | 화요일 | 수요일 | 목요일 
+- 
+월요일 | 화요일 | 수요일 | 목요일 
 ---- | ---- | ---- | ---- 
 Content from cell 1 | Content from cell 2 | |
 Content in the first column | Content in the second column | |
-
