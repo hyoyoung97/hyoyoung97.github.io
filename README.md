@@ -37,6 +37,11 @@ Content in the first column | Content in the second column | |
 
 #Day3
 
+- 직접컴파일하기 -
+javac -d . 클래스이름.java //d=디렉토리
+java -cp . 패키지이름.클래스이름 //cp=classpath
+
+
 - 운영체제의 메모리와 프로세스 -
 
 1. 가상메모리(Virtual Memory)
