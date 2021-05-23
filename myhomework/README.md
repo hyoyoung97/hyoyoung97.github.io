@@ -6,3 +6,4 @@
 3. [Day4](https://github.com/hyoyoung97/hyoyoung97.github.io/blob/main/myhomework/Day4.md)
 4. [Day5](https://github.com/hyoyoung97/hyoyoung97.github.io/blob/main/myhomework/Day5.md)
 5. [Day6](https://github.com/hyoyoung97/hyoyoung97.github.io/blob/main/myhomework/Day%206.md)
+6. [Day7 0521](https://github.com/hyoyoung97/hyoyoung97.github.io/blob/main/myhomework/Day7%200521.md)
